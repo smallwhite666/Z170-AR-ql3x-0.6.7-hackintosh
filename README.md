@@ -3,7 +3,6 @@ OpenCore_for_Z170-AR_QL3X+核显
 ![about.png](屏幕截图/截屏2021-03-08%20下午7.05.39.png)
 
 ```
-Model              HP400G3DM
 Mainboard          Intel z170
 CPU                QL3X(Intel Core i7-7820HK ES)
 Memory             8G DDR4 2400MHz X2
