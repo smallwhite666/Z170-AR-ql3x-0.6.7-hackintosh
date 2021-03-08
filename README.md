@@ -8,7 +8,7 @@ CPU                QL3X(Intel Core i7-7820HK ES)
 Memory             8G DDR4 2400MHz X2
 Graphics           Intel HD Graphics 630
 Audio              Realtek ALC892
-Ethernet           Realtek RTL8111
+Ethernet           I219或者Realtek RTL8111
 Monitor            4k 3840 x 2160
 macOS Version      Catalina 10.15.6
 OpenCore Version   0.6.7
