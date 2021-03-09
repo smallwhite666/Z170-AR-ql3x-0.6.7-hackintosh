@@ -10,6 +10,6 @@ Graphics           Intel HD Graphics 630
 Audio              Realtek ALC892
 Ethernet           I219或者Realtek RTL8111
 Monitor            4k 3840 x 2160
-macOS Version      Catalina 10.15.6
+macOS Version      Bigsur 11.2.2
 OpenCore Version   0.6.7
 ```
